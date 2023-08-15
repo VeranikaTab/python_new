@@ -1,0 +1,862 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"54791d8a-a87c-4795-8db9-b3e273c5bd95\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Tyai2EmmNjVMEGVrA24agPrGH7\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"54791d8a-a87c-4795-8db9-b3e273c5bd95\" name=\"Changes\" comment=\"\" />\r\n      <created>1692017902529</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1692017902529</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,11 +1,42 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="54791d8a-a87c-4795-8db9-b3e273c5bd95" name="Changes" comment="" />
++    <list default="true" id="54791d8a-a87c-4795-8db9-b3e273c5bd95" name="Changes" comment="lesson 2">
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_15_55_[Changes]/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_15_55_[Changes]1/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_15_55__Changes_.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]1/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59__Changes_.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59__Changes_1.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01_[Changes]/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01__Changes_.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02_[Changes]/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02__Changes_.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_2/homework_2/1.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_2/homework_2/2.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_2/seminar_2/1.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_2/seminar_2/2.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_2/seminar_2/3.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_2/seminar_2/4.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_2/seminar_2/5.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson_2/seminar_2/6.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
+   </component>
+   <component name="ProjectId" id="2Tyai2EmmNjVMEGVrA24agPrGH7" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+@@ -16,7 +47,11 @@
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "last_opened_file_path": "C:/Users/Anika/Desktop/python_new/untitled",
++    "project.structure.last.edited": "Project",
++    "project.structure.proportion": "0.15",
++    "project.structure.side.proportion": "0.0"
+   }
+ }]]></component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+@@ -30,4 +65,19 @@
+     </task>
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="lesson 2" />
++    <option name="LAST_COMMIT_MESSAGE" value="lesson 2" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: lesson_2/seminar_2/2.py
+===================================================================
+diff --git a/lesson_2/seminar_2/2.py b/lesson_2/seminar_2/2.py
+new file mode 100644
+--- /dev/null	
++++ b/lesson_2/seminar_2/2.py	
+@@ -0,0 +1,37 @@
++# Создайте в переменной data список значений разных типов перечислив их через запятую внутри квадратных скобок.
++# Для каждого элемента в цикле выведите:
++# ✔порядковый номер начиная с единицы
++# ✔значение
++# ✔адрес в памяти
++# ✔размер в памяти
++# ✔хэш объекта
++# ✔результат проверки на целое число только если он положительный
++# ✔результат проверки на строку только если он положительный
++# Добавьте в список повторяющиеся элементы и сравните результаты.
++
++
++data = [12, 12.12, 'abc', True, 12, 'abc']
++count = 1
++for i in data:
++    types = ''
++    # if isinstance(i, int):
++    if type(i) == int:
++        types = ' type: целое число, '
++    if type(i) == str:
++        types = ' type: строка, '
++    print(count,') ', i, '-', types, "адрес в памяти:", id(i), ", размер в памяти:", i.__sizeof__(), ', хэш объекта:', hash(i))
++    count += 1
++
++# 2-й вариант ---------------------------
++
++from sys import getsizeof
++
++lst_1 = [5, 5, "string", 0.15, True, None]
++for i, el in enumerate(lst_1, 1):
++    print(i, el, id(el), getsizeof(el), hash(el))
++    if type(el) == int and el > 0:
++        print("Целое положительное число")
++    elif type(el) == str:
++        print("Строка")
++
++
+Index: lesson_2/homework_2/2.py
+===================================================================
+diff --git a/lesson_2/homework_2/2.py b/lesson_2/homework_2/2.py
+new file mode 100644
+--- /dev/null	
++++ b/lesson_2/homework_2/2.py	
+@@ -0,0 +1,42 @@
++#  Напишите программу, которая принимает две строки 
++# вида “a/b” — дробь с числителем и знаменателем. 
++# Программа должна возвращать сумму 
++# и *произведение дробей. Для проверки своего 
++# кода используйте модуль fractions.
++
++def process_fractions(frac1_str, frac2_str):
++    # Преобразуем дроби из строк в числа
++    numerator1, denominator1 = map(int, frac1_str.split("/"))
++    numerator2, denominator2 = map(int, frac2_str.split("/"))
++
++    # Вычисляем сумму дробей
++    sum_frac_num = numerator1 * denominator2 + numerator2 * denominator1
++    sum_frac_denom = denominator1 * denominator2
++    sum_frac = (sum_frac_num, sum_frac_denom)
++
++    # Вычисляем произведение дробей
++    prod_frac_num = numerator1 * numerator2
++    prod_frac_denom = denominator1 * denominator2
++    prod_frac = (prod_frac_num, prod_frac_denom)
++
++    return sum_frac, prod_frac
++
++frac1_str = input("Введите дробь 1 -> ")
++frac2_str = input("Введите дробь 2 -> ")
++
++sum_frac, prod_frac = process_fractions(frac1_str, frac2_str)
++
++print(f"Сумма дробей - {sum_frac[0]}/{sum_frac[1]}")
++print(f"Произведение дробей - {prod_frac[0]}/{prod_frac[1]}")
++
++# решение с помощью модуля fractions
++from fractions import Fraction
++
++numerator1, denominator1 = map(int, frac1_str.split("/"))
++numerator2, denominator2 = map(int, frac2_str.split("/"))
++frac1_str = Fraction(input("Введите дробь 1 -> "))
++frac2_str = Fraction(input("Введите дробь 2 -> "))
++
++print(f"Сумма дробей = \
++      {numerator1 * denominator2 + numerator2 * denominator1}/{denominator1 * denominator2 }")
++print(f"Произведение дробей = {numerator1 * numerator2}/{denominator1 * denominator2}")
+\ No newline at end of file
+Index: lesson_2/seminar_2/1.py
+===================================================================
+diff --git a/lesson_2/seminar_2/1.py b/lesson_2/seminar_2/1.py
+new file mode 100644
+--- /dev/null	
++++ b/lesson_2/seminar_2/1.py	
+@@ -0,0 +1,13 @@
++"""
++Задание №1
++Создайте несколько переменных разных типов.
++Проверьте к какому типу относятся созданные переменные.
++"""
++
++lst_1 = [5, "string", 0.15, True, None]
++for el in lst_1:
++    print(type(el))
++
++lst_1 = [5, "string", 0.15, True, None]
++for i in range(len(lst_1)):
++    print(type(lst_1[i]))
+\ No newline at end of file
+Index: lesson_2/homework_2/1.py
+===================================================================
+diff --git a/lesson_2/homework_2/1.py b/lesson_2/homework_2/1.py
+new file mode 100644
+--- /dev/null	
++++ b/lesson_2/homework_2/1.py	
+@@ -0,0 +1,13 @@
++# Напишите программу, которая получает целое 
++# число и возвращает его шестнадцатеричное 
++# строковое представление. Функцию hex 
++# используйте для проверки своего результата.
++
++if __name__ == '__main__':
++    i = int(input("Введите целое число1: "))
++    print(f'Шестнадцатеричное строковое представление -> {"%#x" % i}')
++    print(f"Проверка результата через функцию hex     -> {hex(i)}") 
++
++# Часто if __name__ == "__main__" : используется в скриптах, чтобы обеспечить, 
++# что определенный код выполняется только при запуске скрипта, 
++# а не при импортировании скрипта в другой модуль
+Index: lesson_2/seminar_2/6.py
+===================================================================
+diff --git a/lesson_2/seminar_2/6.py b/lesson_2/seminar_2/6.py
+new file mode 100644
+--- /dev/null	
++++ b/lesson_2/seminar_2/6.py	
+@@ -0,0 +1,152 @@
++# Задание №6
++# Напишите программу банкомат.
++# ✔ Начальная сумма равна нулю +
++# ✔ Допустимые действия: пополнить, снять, выйти +
++# ✔ Сумма пополнения и снятия кратны 50 у.е. +
++# ✔ Процент за снятие — 1.5% от суммы снятия, но не менее 30 и не более 600 у.е.+
++# ✔ После каждой третей операции пополнения или снятия начисляются проценты - 3% +
++# ✔ Нельзя снять больше, чем на счёте +
++# ✔ При превышении суммы в 5 млн, вычитать налог на богатство 10% перед каждой
++# операцией, даже ошибочной +
++# ✔ Любое действие выводит сумму денег +
++
++def check_amount(amount):                                                       # ОГРАНИЧЕНИЕ НА СУММУ КРАНО 50
++    if amount % 50 == 0:
++        return True
++    else:
++        print("Сумма должна быть кратной 50!")
++        return False
++
++def calculate_interest(balance, operations_count):                              # НАЧИСЛЕНИЕ 3% ПРОЦЕНТОВ // рассчитать проценты (баланс, число операций)
++    if operations_count >= 3:                                                   # если число_операций >= 3:
++        balance *= 0.97                                                     # Начисляем проценты в размере 3%
++        balance = round(balance, 2)                                             # баланс = округляем до 2-х символов(баланс, 2)
++        print("Начислены проценты 3%.")
++        print("Общий счет после начисления процентов:", balance, "y.e.")
++    return balance
++
++def deduct_wealth_tax(balance):                                                 # НАЛОГ НА БОГАТСТВО // вычесть богатство_налог (баланс):
++    if balance > 5000000:                                                       # если баланс > 5000000:
++        wealth_tax = balance * 0.1                                          # богатство_налог = баланс * 0.1/ Вычитаем налог на богатство 10%
++        wealth_tax = round(wealth_tax, 2)                                       # налог_на_богатство=округляем(налог_на_богатство, 2)
++        balance -= wealth_tax                                                   # баланс -= налог_на богатство
++        print("Вычтен налог на богатство:", wealth_tax, "y.e.")
++        print("Общий счет после вычета налога на богатство:",
++              round(balance, 2), "y.e.")
++    return balance
++
++def calculate_withdrawal_fee(amount):                                           # ПРОЦЕНТ ЗА СНЯТИЕ // рассчитать комиссию за вывод (сумма):
++    withdrawal_fee = amount * 0.015                                         # вывод_комиссия = сумма * 0,015 # 1,5% от суммы снятия
++    withdrawal_fee = max(withdrawal_fee, 30)                                # комиссия за вывод не менее 30 у.е.
++    withdrawal_fee = min(withdrawal_fee, 600)                               # комиссия за вывод не более 600 у.е.
++    return withdrawal_fee
++
++def deposit(balance, operations_count):                                         # ДЕПОЗИТ(баланс, количество_операций):
++    amount = int(input("\nВведите сумму для пополнения (кратную 50): "))
++    if check_amount(amount):                                                    # сумма чека (сумма):
++        balance += amount                                                       # остаток += сумма
++        # Проверяем и вычитаем налог на богатство
++        balance = round(deduct_wealth_tax(balance), 2)                          # баланс = округл (вычет_налог_богатства (баланс), 2
++
++        print("Счет пополнен на", amount, "у.е.")
++        print("Общий счет:", balance, "y.e.")
++        operations_count += 1                                                   # число_операций += 1
++        balance = calculate_interest(balance, operations_count)                 # баланс = рассчитать проценты 3% (баланс, количество_операций)
++
++    return balance, operations_count                                            # возврат баланса, число_операций
++
++def withdraw(balance, operations_count):                                        # ВЫВЕСТИ(баланс, количество_операций):
++    amount = int(input("\nВведите сумму для снятия (кратную 50): "))
++    if check_amount(amount):
++        if amount <= balance:                                                   # если сумма <= баланс:
++            balance = deduct_wealth_tax(balance)                                # баланс = вычесть налог на богатство (баланс)
++
++            withdrawal_fee = round(calculate_withdrawal_fee(amount), 2)         # комиссия за снятие средств = округление (рассчитать комиссию за вывод (сумма), 2)
++            balance -= withdrawal_fee                                           # баланс -= комиссия за вывод
++
++            balance -= amount                                                   # остаток -= сумма
++            print("Вы сняли", amount, "у.е.")
++            print("Процент за снятие:", withdrawal_fee, "у.е.")
++            print("Общий счет:", round(balance, 2), "y.e.")
++            operations_count += 1
++            balance = calculate_interest(balance, operations_count)            # баланс = рассчитать проценты 3% (баланс, количество_операций)
++        else:
++            print("Недостаточно средств на счете!")
++    return balance, operations_count
++
++def atm():                                                                      # банкомат()
++    balance = 0
++    operations_count = 0
++
++    while True:
++        print("\n1. Пополнить счет")
++        print("2. Снять деньги")
++        print("3. Выйти")
++
++        choice = input("Выберите действие (1-3): ")
++
++        match choice:
++            case "1":
++                balance, operations_count = deposit(balance, operations_count)  # баланс, количество_операций = депозит(баланс, количество_операций)
++            case "2":
++                balance, operations_count = withdraw(balance, operations_count) # баланс, количество_операций = снятие(баланс, количество_операций)
++            case "3":
++                print("До свидания!")
++                break
++            case _:
++                print("Некорректный выбор. Попробуйте еще раз.")
++
++atm()      # банкомат()
++
++
++
++# ----------------------------------------------------------                                                                     
++
++summ = 0
++count_add = 0
++count_out = 0
++
++while True:
++    # print("Ваша Сумма: ", summ)
++    if summ > 5_000_000:
++        print("С вас сняли налог на богатство", summ * 0.1)
++        summ -= summ * 0.1
++
++    action = input("Действие: ")
++
++    if action == "q":
++        print("Выходим из банкомата")
++        print("Сумма: ", summ)
++        break
++    elif action == "a":
++        summ_add = int(input("Сумма: "))
++        if summ_add % 50 == 0:
++            summ += summ_add
++            count_add += 1
++            if count_add % 3 == 0:
++                summ *= 1.03
++        else:
++            print("Введена некорректная сумма (не кратна 50)")
++
++    elif action == "o":
++        summ_out = int(input("Сумма: "))
++        comission = summ_out * 0.015
++        if comission < 30:
++            comission = 30
++        elif comission > 600:
++            comission = 600
++
++        if summ_out + comission > summ:
++            print("Недостаточно средств")
++
++        else:
++            if summ_out % 50 == 0:
++                summ -= summ_out + comission
++
++                count_out += 1
++                if count_out % 3 == 0:
++                    summ *= 1.03
++            else:
++                print("Введена некорректная сумма")
++
++    print(f"Сумма: {summ}")
+\ No newline at end of file
+Index: lesson_2/seminar_2/3.py
+===================================================================
+diff --git a/lesson_2/seminar_2/3.py b/lesson_2/seminar_2/3.py
+new file mode 100644
+--- /dev/null	
++++ b/lesson_2/seminar_2/3.py	
+@@ -0,0 +1,45 @@
++# Напишите программу, которая получает целое число и возвращает его двоичное, восьмеричное строковое представление.
++# ✔Функции bin и oct используйте для проверки своего результата, а не для решения.
++# Дополнительно:
++# ✔Попробуйте избежать дублирования кода в преобразованиях к разным системам счисления
++# ✔Избегайте магических чисел
++# ✔Добавьте аннотацию типов, где это возможно
++
++def convert_integer(decimal, radix):
++    if radix > 36:
++        return "Основание системы счисления должно быть не больше 36-ти!"
++
++    number = ''
++    while decimal > 0:
++        decimal, reminder = divmod(decimal, radix)
++        if reminder > 9:
++            reminder = chr(ord('A') + reminder - 10)
++        number = str(reminder) + number
++    return number
++
++num = int(input("Десятичное число: "))
++base = int(input("Основание (2-36): "))
++print(convert_integer(num, base))
++
++# https://calcus.ru/perevod-sistem-schisleniya/iz-desyatichnoy-v-vosmerichnuyu
++# перевод числа из десятичного в двоичное
++
++num_dec = int(input("введите число: "))
++res = ''
++DIVIDER = 2
++print(bin(num_dec))
++while num_dec > 0:
++    res = str(num_dec % DIVIDER) + res
++    num_dec //= DIVIDER
++print(res)
++
++# ---------------------------------------------------
++
++num_dec = int(input("введите число: "))
++res = ''
++DIVIDER = 8
++print(oct(num_dec))
++while num_dec > 0:
++    res = str(num_dec % DIVIDER) + res
++    num_dec //= DIVIDER
++print(res)
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]1/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]1/shelved.patch
+new file mode 100644
+--- /dev/null	
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]1/shelved.patch	
+@@ -0,0 +1,93 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"54791d8a-a87c-4795-8db9-b3e273c5bd95\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Tyai2EmmNjVMEGVrA24agPrGH7\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"54791d8a-a87c-4795-8db9-b3e273c5bd95\" name=\"Changes\" comment=\"\" />\r\n      <created>1692017902529</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1692017902529</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision 44fedd0fbde97cd3f4a1f67d235943d7fbe18881)
+++++ b/.idea/workspace.xml	(date 1692125946097)
++@@ -1,12 +1,34 @@
++ <?xml version="1.0" encoding="UTF-8"?>
++ <project version="4">
+++  <component name="AutoImportSettings">
+++    <option name="autoReloadType" value="SELECTIVE" />
+++  </component>
++   <component name="ChangeListManager">
++-    <list default="true" id="54791d8a-a87c-4795-8db9-b3e273c5bd95" name="Changes" comment="" />
+++    <list default="true" id="54791d8a-a87c-4795-8db9-b3e273c5bd95" name="Changes" comment="seminar 1">
+++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+++    </list>
++     <option name="SHOW_DIALOG" value="false" />
++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
++     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++     <option name="LAST_RESOLUTION" value="IGNORE" />
++   </component>
+++  <component name="FileTemplateManagerImpl">
+++    <option name="RECENT_TEMPLATES">
+++      <list>
+++        <option value="Python Script" />
+++      </list>
+++    </option>
+++  </component>
+++  <component name="Git.Settings">
+++    <option name="RECENT_BRANCH_BY_REPOSITORY">
+++      <map>
+++        <entry key="$PROJECT_DIR$" value="master" />
+++      </map>
+++    </option>
+++  </component>
+++  <component name="MarkdownSettingsMigration">
+++    <option name="stateVersion" value="1" />
+++  </component>
++   <component name="ProjectId" id="2Tyai2EmmNjVMEGVrA24agPrGH7" />
++   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++   <component name="ProjectViewState">
++@@ -19,6 +41,11 @@
++     "RunOnceActivity.ShowReadmeOnStart": "true"
++   }
++ }]]></component>
+++  <component name="RecentsManager">
+++    <key name="MoveFile.RECENT_KEYS">
+++      <recent name="C:\Users\Anika\Desktop\python_new\untitled" />
+++    </key>
+++  </component>
++   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++   <component name="TaskManager">
++     <task active="true" id="Default" summary="Default task">
++@@ -28,6 +55,33 @@
++       <option name="presentableId" value="Default" />
++       <updated>1692017902529</updated>
++     </task>
+++    <task id="LOCAL-00001" summary="lesson 1">
+++      <created>1692018241869</created>
+++      <option name="number" value="00001" />
+++      <option name="presentableId" value="LOCAL-00001" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1692018241870</updated>
+++    </task>
+++    <task id="LOCAL-00002" summary="lesson 1">
+++      <created>1692018261467</created>
+++      <option name="number" value="00002" />
+++      <option name="presentableId" value="LOCAL-00002" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1692018261467</updated>
+++    </task>
+++    <task id="LOCAL-00003" summary="seminar 1">
+++      <created>1692018669455</created>
+++      <option name="number" value="00003" />
+++      <option name="presentableId" value="LOCAL-00003" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1692018669455</updated>
+++    </task>
+++    <option name="localTasksCounter" value="4" />
++     <servers />
++   </component>
+++  <component name="VcsManagerConfiguration">
+++    <MESSAGE value="lesson 1" />
+++    <MESSAGE value="seminar 1" />
+++    <option name="LAST_COMMIT_MESSAGE" value="seminar 1" />
+++  </component>
++ </project>
++\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01_[Changes]/shelved.patch	
+@@ -0,0 +1,71 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"54791d8a-a87c-4795-8db9-b3e273c5bd95\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Tyai2EmmNjVMEGVrA24agPrGH7\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"54791d8a-a87c-4795-8db9-b3e273c5bd95\" name=\"Changes\" comment=\"\" />\r\n      <created>1692017902529</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1692017902529</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision 44fedd0fbde97cd3f4a1f67d235943d7fbe18881)
+++++ b/.idea/workspace.xml	(date 1692126026273)
++@@ -1,5 +1,8 @@
++ <?xml version="1.0" encoding="UTF-8"?>
++ <project version="4">
+++  <component name="AutoImportSettings">
+++    <option name="autoReloadType" value="SELECTIVE" />
+++  </component>
++   <component name="ChangeListManager">
++     <list default="true" id="54791d8a-a87c-4795-8db9-b3e273c5bd95" name="Changes" comment="" />
++     <option name="SHOW_DIALOG" value="false" />
++@@ -13,12 +16,12 @@
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent"><![CDATA[{
++-  "keyToString": {
++-    "RunOnceActivity.OpenProjectViewOnStart": "true",
++-    "RunOnceActivity.ShowReadmeOnStart": "true"
+++  <component name="PropertiesComponent">{
+++  &quot;keyToString&quot;: {
+++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
++   }
++-}]]></component>
+++}</component>
++   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++   <component name="TaskManager">
++     <task active="true" id="Default" summary="Default task">
++@@ -30,4 +33,32 @@
++     </task>
++     <servers />
++   </component>
+++  <component name="Vcs.Log.Tabs.Properties">
+++    <option name="TAB_STATES">
+++      <map>
+++        <entry key="52b62225-8e30-4d75-ae9a-94d5ff09c9e0">
+++          <value>
+++            <State />
+++          </value>
+++        </entry>
+++        <entry key="MAIN">
+++          <value>
+++            <State>
+++              <option name="FILTERS">
+++                <map>
+++                  <entry key="branch">
+++                    <value>
+++                      <list>
+++                        <option value="lesson_1" />
+++                      </list>
+++                    </value>
+++                  </entry>
+++                </map>
+++              </option>
+++            </State>
+++          </value>
+++        </entry>
+++      </map>
+++    </option>
+++  </component>
++ </project>
++\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]/shelved.patch	
+@@ -0,0 +1,103 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"54791d8a-a87c-4795-8db9-b3e273c5bd95\" name=\"Changes\" comment=\"seminar 1\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Tyai2EmmNjVMEGVrA24agPrGH7\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Anika\\Desktop\\python_new\\untitled\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"54791d8a-a87c-4795-8db9-b3e273c5bd95\" name=\"Changes\" comment=\"\" />\r\n      <created>1692017902529</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1692017902529</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"lesson 1\">\r\n      <created>1692018241869</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1692018241870</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"lesson 1\">\r\n      <created>1692018261467</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1692018261467</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"seminar 1\">\r\n      <created>1692018669455</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1692018669455</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"lesson 1\" />\r\n    <MESSAGE value=\"seminar 1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"seminar 1\" />\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision dd7d5213d48a4f2486b5eed0aa688f80c36dc91b)
+++++ b/.idea/workspace.xml	(date 1692104466306)
++@@ -26,6 +26,19 @@
++       </map>
++     </option>
++   </component>
+++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+++  "lastFilter": {
+++    "state": "OPEN"
+++  }
+++}]]></component>
+++  <component name="GithubPullRequestsUISettings">
+++    <option name="selectedUrlAndAccountId">
+++      <UrlAndAccount>
+++        <option name="accountId" value="5c1f6e58-8c2c-4172-8fa7-ab49dc39e89c" />
+++        <option name="url" value="https://github.com/VeranikaTab/python_new.git" />
+++      </UrlAndAccount>
+++    </option>
+++  </component>
++   <component name="MarkdownSettingsMigration">
++     <option name="stateVersion" value="1" />
++   </component>
++@@ -35,12 +48,12 @@
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent"><![CDATA[{
++-  "keyToString": {
++-    "RunOnceActivity.OpenProjectViewOnStart": "true",
++-    "RunOnceActivity.ShowReadmeOnStart": "true"
+++  <component name="PropertiesComponent">{
+++  &quot;keyToString&quot;: {
+++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
++   }
++-}]]></component>
+++}</component>
++   <component name="RecentsManager">
++     <key name="MoveFile.RECENT_KEYS">
++       <recent name="C:\Users\Anika\Desktop\python_new\untitled" />
++@@ -78,6 +91,54 @@
++     </task>
++     <option name="localTasksCounter" value="4" />
++     <servers />
+++  </component>
+++  <component name="Vcs.Log.Tabs.Properties">
+++    <option name="TAB_STATES">
+++      <map>
+++        <entry key="52b62225-8e30-4d75-ae9a-94d5ff09c9e0">
+++          <value>
+++            <State>
+++              <option name="FILTERS">
+++                <map>
+++                  <entry key="branch">
+++                    <value>
+++                      <list>
+++                        <option value="origin/lesson_1" />
+++                      </list>
+++                    </value>
+++                  </entry>
+++                </map>
+++              </option>
+++            </State>
+++          </value>
+++        </entry>
+++        <entry key="9524b0fd-cde3-4930-a1be-3674c8ff75bb">
+++          <value>
+++            <State />
+++          </value>
+++        </entry>
+++        <entry key="MAIN">
+++          <value>
+++            <State />
+++          </value>
+++        </entry>
+++        <entry key="de60f9fd-9b5a-42ee-90e0-f0474b1d0683">
+++          <value>
+++            <State />
+++          </value>
+++        </entry>
+++        <entry key="edabcad8-4cbe-42ae-a52f-645b8c849ef6">
+++          <value>
+++            <State />
+++          </value>
+++        </entry>
+++      </map>
+++    </option>
+++    <option name="OPEN_GENERIC_TABS">
+++      <map>
+++        <entry key="52b62225-8e30-4d75-ae9a-94d5ff09c9e0" value="TOOL_WINDOW" />
+++      </map>
+++    </option>
++   </component>
++   <component name="VcsManagerConfiguration">
++     <MESSAGE value="lesson 1" />
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02_[Changes]/shelved.patch	
+@@ -0,0 +1,93 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"54791d8a-a87c-4795-8db9-b3e273c5bd95\" name=\"Changes\" comment=\"seminar 1\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Tyai2EmmNjVMEGVrA24agPrGH7\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Anika\\Desktop\\python_new\\untitled\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"54791d8a-a87c-4795-8db9-b3e273c5bd95\" name=\"Changes\" comment=\"\" />\r\n      <created>1692017902529</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1692017902529</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"lesson 1\">\r\n      <created>1692018241869</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1692018241870</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"lesson 1\">\r\n      <created>1692018261467</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1692018261467</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"seminar 1\">\r\n      <created>1692018669455</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1692018669455</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"lesson 1\" />\r\n    <MESSAGE value=\"seminar 1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"seminar 1\" />\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision dd7d5213d48a4f2486b5eed0aa688f80c36dc91b)
+++++ b/.idea/workspace.xml	(date 1692126111432)
++@@ -1,34 +1,12 @@
++ <?xml version="1.0" encoding="UTF-8"?>
++ <project version="4">
++-  <component name="AutoImportSettings">
++-    <option name="autoReloadType" value="SELECTIVE" />
++-  </component>
++   <component name="ChangeListManager">
++-    <list default="true" id="54791d8a-a87c-4795-8db9-b3e273c5bd95" name="Changes" comment="seminar 1">
++-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++-    </list>
+++    <list default="true" id="54791d8a-a87c-4795-8db9-b3e273c5bd95" name="Changes" comment="" />
++     <option name="SHOW_DIALOG" value="false" />
++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
++     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++     <option name="LAST_RESOLUTION" value="IGNORE" />
++   </component>
++-  <component name="FileTemplateManagerImpl">
++-    <option name="RECENT_TEMPLATES">
++-      <list>
++-        <option value="Python Script" />
++-      </list>
++-    </option>
++-  </component>
++-  <component name="Git.Settings">
++-    <option name="RECENT_BRANCH_BY_REPOSITORY">
++-      <map>
++-        <entry key="$PROJECT_DIR$" value="master" />
++-      </map>
++-    </option>
++-  </component>
++-  <component name="MarkdownSettingsMigration">
++-    <option name="stateVersion" value="1" />
++-  </component>
++   <component name="ProjectId" id="2Tyai2EmmNjVMEGVrA24agPrGH7" />
++   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++   <component name="ProjectViewState">
++@@ -41,11 +19,6 @@
++     "RunOnceActivity.ShowReadmeOnStart": "true"
++   }
++ }]]></component>
++-  <component name="RecentsManager">
++-    <key name="MoveFile.RECENT_KEYS">
++-      <recent name="C:\Users\Anika\Desktop\python_new\untitled" />
++-    </key>
++-  </component>
++   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++   <component name="TaskManager">
++     <task active="true" id="Default" summary="Default task">
++@@ -55,33 +28,6 @@
++       <option name="presentableId" value="Default" />
++       <updated>1692017902529</updated>
++     </task>
++-    <task id="LOCAL-00001" summary="lesson 1">
++-      <created>1692018241869</created>
++-      <option name="number" value="00001" />
++-      <option name="presentableId" value="LOCAL-00001" />
++-      <option name="project" value="LOCAL" />
++-      <updated>1692018241870</updated>
++-    </task>
++-    <task id="LOCAL-00002" summary="lesson 1">
++-      <created>1692018261467</created>
++-      <option name="number" value="00002" />
++-      <option name="presentableId" value="LOCAL-00002" />
++-      <option name="project" value="LOCAL" />
++-      <updated>1692018261467</updated>
++-    </task>
++-    <task id="LOCAL-00003" summary="seminar 1">
++-      <created>1692018669455</created>
++-      <option name="number" value="00003" />
++-      <option name="presentableId" value="LOCAL-00003" />
++-      <option name="project" value="LOCAL" />
++-      <updated>1692018669455</updated>
++-    </task>
++-    <option name="localTasksCounter" value="4" />
++     <servers />
++   </component>
++-  <component name="VcsManagerConfiguration">
++-    <MESSAGE value="lesson 1" />
++-    <MESSAGE value="seminar 1" />
++-    <option name="LAST_COMMIT_MESSAGE" value="seminar 1" />
++-  </component>
++ </project>
++\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01__Changes_.xml
+new file mode 100644
+--- /dev/null	
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01__Changes_.xml	
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Checkout_at_15_08_2023_22_01_[Changes]" date="1692126117980" recycled="true" deleted="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_01_[Changes]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 15.08.2023 22:01 [Changes]" />
++</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02__Changes_.xml
+new file mode 100644
+--- /dev/null	
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02__Changes_.xml	
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Checkout_at_15_08_2023_22_02_[Changes]" date="1692126135612" recycled="true" deleted="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_22_02_[Changes]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 15.08.2023 22:02 [Changes]" />
++</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59__Changes_1.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59__Changes_1.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59__Changes_1.xml
+new file mode 100644
+--- /dev/null	
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59__Changes_1.xml	
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]1" date="1692125970423" recycled="true" deleted="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_21_59_[Changes]1/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 15.08.2023 21:59 [Changes]" />
++</changelist>
+\ No newline at end of file
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_15_55_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_08_2023_15_55_[Changes]1/shelved.patch
+new file mode 100644
