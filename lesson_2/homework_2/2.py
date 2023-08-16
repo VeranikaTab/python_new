@@ -3,7 +3,7 @@
 # Программа должна возвращать сумму 
 # и *произведение дробей. Для проверки своего 
 # кода используйте модуль fractions.
-
+from fractions import Fraction
 def process_fractions(frac1_str, frac2_str):
     # Преобразуем дроби из строк в числа
     numerator1, denominator1 = map(int, frac1_str.split("/"))
@@ -30,7 +30,7 @@ print(f"Сумма дробей - {sum_frac[0]}/{sum_frac[1]}")
 print(f"Произведение дробей - {prod_frac[0]}/{prod_frac[1]}")
 
 # решение с помощью модуля fractions
-from fractions import Fraction
+
 
 numerator1, denominator1 = map(int, frac1_str.split("/"))
 numerator2, denominator2 = map(int, frac2_str.split("/"))
