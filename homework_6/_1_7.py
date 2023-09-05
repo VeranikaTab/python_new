@@ -35,4 +35,7 @@ def check(date: str):
 
 # Високосный или нет
 def leap_year(year):
-    return not year % 400 != 0 or year % 4 == 0 and year % 100 != 0
+    if year % 400 == 0 or year % 4 == 0 and year % 100 != 0:
+        print(f"Год {year} - високосный")
+    else:
+        print(f"Год {year} - невисокосный")
